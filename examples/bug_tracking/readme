@@ -1,0 +1,18 @@
+Software Bug Tracking System sample application
+
+Requirements
+- Allow users to submit bug reports
+- Record data about every bug: 
+-- Identity of the reporter
+-- Date and time when reported
+-- Severity (scale to be defined)
+-- Description
+-- Instructions to reproduce
+-- Identity of programmer in charge of fixing
+-- Status (allowed statuses to be defined)
+-  Allow administrator users to change a bug status
+- Send notification emails to interested parties when there is a bug status change  
+
+Components
+- Database backend
+- GUI front-end (browser)
